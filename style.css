@@ -224,4 +224,31 @@ footer {
         margin-right: -12px;
     }
 }
-```
+
+.aviso{
+    background-color: #0066ff70;
+    text-align: center;
+    position: absolute;
+    border-radius: 10px;
+    box-shadow: inset 0px 0px 10px rgb(255, 255, 255);
+}
+
+.aviso p{
+    color: black;
+    font-weight: bold;
+    padding: 0px 2px;
+}
+
+.new{
+    background-color: #ffee0098;
+    text-align: center;
+    position: absolute;
+    border-radius: 10px;
+    box-shadow: inset 0px 0px 10px rgb(255, 255, 255);
+}
+
+.new p{
+    color: black;
+    font-weight: bold;
+    padding: 0px 2px;
+}
